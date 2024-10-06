@@ -1,2 +1,2 @@
-# Jmdn
+# KODI
 Repositorios kodi
